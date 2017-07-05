@@ -18,7 +18,7 @@
     "express-validator": "*",
     "jade": "~1.11.0",
     "mongodb": "*",
-    "mongoose": "*",
+    "mongoose": "4.10.8",
     "morgan": "~1.8.1",
     "multer": "*",
     "passport": "*",
