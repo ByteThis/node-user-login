@@ -21,11 +21,11 @@ You can now access your webpage on `localhost:3000`
 
 ## Here's what the page looks like
 
-###Login
+### Login
 ![preview](http://i.imgur.com/WSs3f2L.png "Login")
 
-###Register
+### Register
 ![preview](http://imgur.com/usB6AVI.png "Register")
 
-###Members Area
+### Members Area
 ![preview](http://imgur.com/WyiULDx.png "Members Area")
